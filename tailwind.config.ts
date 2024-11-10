@@ -1,3 +1,5 @@
+// ira giti codey error a tvel, chatgptn a esi arajarkel, requeri poxaren import asel ailwindcss/typography u tailwindcss-animate
+
 import type { Config } from "tailwindcss";
 import tailwindcssAnimate from "tailwindcss-animate";
 import typography from "@tailwindcss/typography";
